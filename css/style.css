@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(100,200,240);
+}
+
+h1, h2 {
+  text-align: center;
+  font-color: black;
+}
+
+.image {
+  width: 200px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 20px;
+}
+
+.text {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 16em;
+  font-size: 22px;
+  font-family: arial;
+}
+
+.listy {
+  margin-left: 80px;
+  padding: 30px;
+}
